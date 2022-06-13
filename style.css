@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  background-color: #f4dc26;
+  min-width: 1000px;
+  height: 100%;
+  justify-content: center;
+}
+
